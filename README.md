@@ -1,5 +1,7 @@
 # HeyBeauty MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@chatmcp/heybeauty-mcp)](https://smithery.ai/server/@chatmcp/heybeauty-mcp)
+
 HeyBeauty Virtual TryOn
 
 This is a TypeScript-based MCP server that implements virtual tryon using HeyBeauty API. It demonstrates core MCP concepts by providing:
@@ -96,6 +98,14 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 ```
 
 Follow this document to [get HeyBeauty API Key](https://doc.heybeauty.ai/try-on).
+
+### Installing via Smithery
+
+To install HeyBeauty Virtual TryOn Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@chatmcp/heybeauty-mcp):
+
+```bash
+npx -y @smithery/cli install @chatmcp/heybeauty-mcp --client claude
+```
 
 ### Debugging
 
