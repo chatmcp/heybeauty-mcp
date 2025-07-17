@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chatmcp-heybeauty-mcp-badge.png)](https://mseep.ai/app/chatmcp-heybeauty-mcp)
+
 # HeyBeauty MCP Server
 
 HeyBeauty Virtual TryOn
